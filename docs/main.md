@@ -50,10 +50,29 @@ Datamoshing is a glitch art technique where video compression artifacts are mani
 
 [Link 1](https://www.tiktok.com/@nzjared/video/7403960887557524743) - [Link 2](https://www.youtube.com/watch?v=rMSsw4CZvKg)
 
+### Audioreactivity
+
+![progress](https://progress-bar.xyz/0/)
+
+Audio is used as an input/parameter to drive effects. Beats, pitch, volume, any audio aspect can be converted into an effect driver.
+
+[Link 1](https://www.tiktok.com/@lost.guy08/video/7465121151954455850)
+
 ### TikTok Accounts
 
 [okamirufu.vizualizer](https://www.tiktok.com/@okamirufu.vizualizer)  
 [alt.grr](https://www.tiktok.com/@alt.grr)
+
+## Brainstorming
+
+👉 Using AI Image generation, interpolate frames and video input using datamoshing type effect.
+
+👉 Using Image Segmentation to isolate objects or persons from background, to create separate effects. Maybe adding glitch just on persons/ faces or objects.
+
+👉 Mix selected images/ video with real footage using datamoshing. Like a flash effect which makes images last in time. [Link 1](https://www.tiktok.com/@pytebyte/video/7273535699847220513) - [Link 2](https://www.tiktok.com/@pytebyte/video/7272384429476056352
+)
+
+👉 Use directly Realtime Depth output with custom gradient + other effects. Audioreactivity could be used to drive on top effects
 
 ## Tech Stack
 
